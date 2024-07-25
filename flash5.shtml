@@ -1,0 +1,24 @@
+<HTML>
+  <HEAD>
+    <TITLE>Guy Schmidt Automotive Group!</TITLE>
+	<META NAME="KEYWORDS" CONTENT="">
+	<META NAME="DESCRIPTION" CONTENT="">
+	<META http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  </HEAD>
+  <BODY BGCOLOR="000000" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0">
+	<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	  <TR>
+        <TD WIDTH="50%"><IMG SRC="images/shim.gif" WIDTH="10" HEIGHT="1"></TD>
+		<TD WIDTH="760" ALIGN="CENTER"><IMG SRC="images/shim.gif" WIDTH="760" HEIGHT="100"><!--<bgsound src="http://hobbang.co.kr/midi/44-26.mid" loop="infinite">-->
+		  <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" WIDTH="18" HEIGHT="18">
+		  <PARAM NAME=movie VALUE="swf/flash5.swf">
+		  <PARAM NAME=menu VALUE=FALSE>
+		  <PARAM NAME=QUALITY VALUE=HIGH>
+		  <PARAM NAME=BGCOLOR VALUE=000000>
+		  <EMBED SRC="swf/flash5.swf" MENU=FALSE QUALITY=HIGH BGCOLOR=000000 pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" TYPE="application/x-shockwave-flash" WIDTH="18" HEIGHT="18"><BR></EMBED>
+		  </OBJECT></TD>
+		<TD WIDTH="50%"><IMG SRC="images/shim.gif" WIDTH="10" HEIGHT="1"></TD>
+	  </TR>
+    </TABLE>
+  </BODY>
+</HTML>

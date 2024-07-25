@@ -1,0 +1,102 @@
+<HTML>
+  <HEAD>
+    <TITLE>Guy Schmidt Automotive Group!</TITLE>
+	<META NAME="KEYWORDS" CONTENT="Guy Schumidt, Guy Schumidt Automotive Group, About Us, Affiliations">
+	<META NAME="DESCRIPTION" CONTENT="Guy Schumidt Automotive Group">
+	<META http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  </HEAD>
+<STYLE type="text/css">
+<!--
+.maintext {color: #FFFFFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.footer {color: #9D785F; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text1 {color: #FFFFFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text2 {color: #FFFFFF; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+a:link {color: #C1B873; text-decoration: none}
+a:visited {color: #C1B873; text-decoration: none}
+a:hover {color: #FFFFFF; text-decoration: none}
+-->
+</STYLE>
+<!--#INCLUDE VIRTUAL="/include/script_popup.inc"-->
+  <BODY BGCOLOR="000000" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" TEXT="FFFFFF" LINK="C1B873" ALINK="C1B873" VLINK="C1B873">
+	<!--#INCLUDE VIRTUAL="/include/navigator.inc"-->
+	<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	  <TR>
+        <TD WIDTH="100" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+		<TD WIDTH="580" COLSPAN="3" ALIGN="CENTER" VALIGN="TOP" CLASS="text2"><IMG SRC="/images/shim.gif" WIDTH="580" HEIGHT="1"><BR>
+		  <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" WIDTH="580" HEIGHT="70">
+		  <PARAM NAME=movie VALUE="swf/header.swf">
+		  <PARAM NAME=menu VALUE=FALSE>
+		  <PARAM NAME=QUALITY VALUE=HIGH>
+		  <PARAM NAME=BGCOLOR VALUE=000000>
+		  <EMBED SRC="swf/header.swf" MENU=FALSE QUALITY=HIGH BGCOLOR=000000 pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" TYPE="application/x-shockwave-flash" WIDTH="580" HEIGHT="70"></embed><BR>
+		  </OBJECT></TD>
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+	  </TR>
+	  <TR>
+        <TD WIDTH="100" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+		<TD WIDTH="20" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="20" HEIGHT="1"></TD>
+		<TD WIDTH="540" VALIGN="TOP" CLASS="text1"><IMG SRC="/images/shim.gif" WIDTH="540" HEIGHT="1"><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <A HREF="#1" NAME="content1" CLASS="fade">YMCA,</A>&nbsp; &nbsp;
+		  <A HREF="#2" NAME="content2" CLASS="fade">YWCA,</A>&nbsp; &nbsp;
+		  <A HREF="#3" NAME="content3" CLASS="fade">Red Cross,</A>&nbsp; &nbsp;
+		  <A HREF="#4" NAME="content4" CLASS="fade">Young Life,</A>&nbsp; &nbsp;
+		  <A HREF="#5" NAME="content5" CLASS="fade">Boy Scouts,</A>&nbsp; &nbsp;
+		  <A HREF="#6" NAME="content6" CLASS="fade">Glendale Symphony,</A>&nbsp; &nbsp;
+		  <A HREF="#7" NAME="content7" CLASS="fade">Glendale High Schools,</A>&nbsp; &nbsp;
+		  <A HREF="#8" NAME="content8" CLASS="fade">Rotary Club of Glendale,</A>&nbsp; &nbsp;
+		  <A HREF="#9" NAME="content9" CLASS="fade">Verdugo Hills Hospital,</A>&nbsp; &nbsp;
+		  <A HREF="#10" NAME="content10" CLASS="fade">Glendale Memorial Hospital,</A>&nbsp; &nbsp;
+		  <A HREF="#11" NAME="content11" CLASS="fade">Glendale Adventist Medical Center,</A>&nbsp; &nbsp;
+		  <A HREF="#12" NAME="content12" CLASS="fade">Glendale Chamber of Commerce,</A>&nbsp; &nbsp;
+		  <A HREF="/aboutus/index.shtml" NAME="content13" CLASS="fade">Back to the About Us Main page.</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="20"><BR><A NAME="1"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>YMCA</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR><A NAME="2"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>YWCA</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR><A NAME="3"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>Red Cross</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR><A NAME="4"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>Young Life</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR><A NAME="5"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>Boy Scouts</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR><A NAME="6"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>Glendale Symphony</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR><A NAME="7"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>Glendale High Schools</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR><A NAME="8"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>Rotary Club of Glendale</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR><A NAME="9"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>Verdugo Hills Hospital</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR><A NAME="10"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>Glendale Memorial Hospital</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR><A NAME="11"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>Glendale Adventist Medical Center</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR><A NAME="12"></A>
+		  <A HREF="/contact/info/index.shtml" CLASS="text2"><U>Glendale Chamber of Commerce</U></A><BR>
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....
+		  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....  Feedback....BLAH, BLAH, BLAH BLAH, BLAH....<BR><BR></TD>
+		<TD WIDTH="20" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="20" HEIGHT="1"></TD>
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+	  </TR>
+	  <TR>
+        <TD WIDTH="100" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+		<TD WIDTH="580" COLSPAN="3" ALIGN="CENTER" VALIGN="TOP"><IMG SRC="/aboutus/images/bar.jpg" WIDTH="580" HEIGHT="10"><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="5"></TD>
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+	  </TR>
+    </TABLE>
+	<!--#INCLUDE VIRTUAL="/include/footer.inc"-->
+  </BODY>
+</HTML>

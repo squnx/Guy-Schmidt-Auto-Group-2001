@@ -1,0 +1,506 @@
+<HTML>
+  <HEAD>
+    <TITLE>Guy Schmidt Automotive Group!</TITLE>
+	<META NAME="KEYWORDS" CONTENT="Guy Schumidt, Guy Schumidt Automotive Group, Inventory, Cadillac, Oldsmobile, Pontiac, GMC, Buick, BuyPower">
+	<META NAME="DESCRIPTION" CONTENT="Guy Schumidt Automotive Group">
+	<META http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+	<script language="JavaScript" SRC="http://www.gmbuypower.com/us/en/gmbp/gmbp/javascript/jslib.js"></script>
+	<script language="JavaScript" SRC="http://www.gmbuypower.com/us/en/gmbp/gmbp/javascript/error.js"></script>
+	<script language="JavaScript" SRC="http://www.gmbuypower.com/us/en/gmbp/gmbp/javascript/pulldowns.js"></script>
+	<script language="JavaScript" SRC="http://www.gmbuypower.com/us/en/gmbp/gmbp/javascript/ImageFuncs.js"></script>
+	<script language="JavaScript" SRC="http://www.gmbuypower.com/us/en/gmbp/gmbp/javascript/rollovers.js"></script>
+	<script language="Javascript">
+ImgArray = new Array();
+ImgArray[0] = "http://www.gmbuypower.com/us/en/gmbp/gmbp/16002/images/hero.gif"
+ImgArray[1] = "http://www.gmbuypower.com/us/en/gmbp/gmbp/12006/images/hero.gif"
+ImgArray[2] = "http://www.gmbuypower.com/us/en/gmbp/gmbp/48012/images/hero.gif"
+ImgArray[3] = "http://www.gmbuypower.com/us/en/gmbp/gmbp/15003/images/hero.gif"
+ImgArray[4] = "http://www.gmbuypower.com/us/en/gmbp/gmbp/13001/images/hero.gif"
+ImgArray[5] = "http://www.gmbuypower.com/us/en/gmbp/gmbp/11004/images/hero.gif"
+function getRandomHeroShot()
+{
+	var i;
+	i = Math.floor(Math.random()*ImgArray.length);
+	return ImgArray[i];
+}
+function init()
+{
+	document.heroshotgif.src = getRandomHeroShot();
+	initDocument();
+}
+function initDocument()
+{
+	initVehicles();
+	defaultYear(2001);
+}
+function initVehicles()
+{
+	v=new Array();
+	m=new Array();
+	y=new Array();
+	// Array of makes
+	m[0] = "BUICK"
+	m[1] = "CADILLAC"
+	m[2] = "CHEVROLET"
+	m[3] = "GMC"
+	m[4] = "OLDSMOBILE"
+	m[5] = "PONTIAC"
+	// Array of years
+	y[0] = 2001
+	y[1] = 2002
+	// Add Makes
+	aM(y[0],m[0],"11","004")
+	aM(y[0],m[1],"12","006")
+	aM(y[0],m[2],"13","001")
+	aM(y[0],m[3],"48","012")
+	aM(y[0],m[4],"15","003")
+	aM(y[0],m[5],"16","002")
+	aM(y[1],m[1],"12","006")
+	// Add Vehicles
+	aV(y[0],m[4],"Alero Coupe","50")
+	aV(y[0],m[4],"Alero Sedan","73")
+	aV(y[0],m[2],"Astro Cargo","62")
+	aV(y[0],m[2],"Astro Van","38")
+	aV(y[0],m[4],"Aurora","42")
+	aV(y[0],m[5],"Aztek","75")
+	aV(y[0],m[2],"Blazer","6")
+	aV(y[0],m[5],"Bonneville","13")
+	aV(y[0],m[4],"Bravada","43")
+	aV(y[0],m[2],"Camaro","35")
+	aV(y[0],m[1],"Catera","30")
+	aV(y[0],m[2],"Cavalier Coupe","2")
+	aV(y[0],m[2],"Cavalier Sedan","19")
+	aV(y[0],m[0],"Century","23")
+	aV(y[0],m[2],"Corvette","36")
+	aV(y[0],m[1],"DeVille","27")
+	aV(y[0],m[1],"Eldorado","29")
+	aV(y[0],m[2],"Express","51")
+	aV(y[0],m[2],"Express Cargo","67")
+	aV(y[0],m[5],"Firebird","11")
+	aV(y[0],m[5],"Grand Am Coupe","10")
+	aV(y[0],m[5],"Grand Am Sedan","40")
+	aV(y[0],m[5],"Grand Prix Coupe","12")
+	aV(y[0],m[5],"Grand Prix Sedan","74")
+	aV(y[0],m[2],"Impala","61")
+	aV(y[0],m[4],"Intrigue","20")
+	aV(y[0],m[3],"Jimmy","17")
+	aV(y[0],m[0],"LeSabre","25")
+	aV(y[0],m[2],"Malibu","32")
+	aV(y[0],m[5],"Montana","48")
+	aV(y[0],m[2],"Monte Carlo","34")
+	aV(y[0],m[0],"Park Avenue","26")
+	aV(y[0],m[2],"Prizm","31")
+	aV(y[0],m[0],"Regal","24")
+	aV(y[0],m[2],"S-10 Pickup","3")
+	aV(y[0],m[3],"Safari Cargo","64")
+	aV(y[0],m[3],"Safari Van","39")
+	aV(y[0],m[3],"Savana","59")
+	aV(y[0],m[3],"Savana Cargo","69")
+	aV(y[0],m[1],"Seville","47")
+	aV(y[0],m[3],"Sierra 1500","16")
+	aV(y[0],m[3],"Sierra 2500","68")
+	aV(y[0],m[3],"Sierra 2500HD","79")
+	aV(y[0],m[3],"Sierra 3500","80")
+	aV(y[0],m[4],"Silhouette","22")
+	aV(y[0],m[2],"Silverado 1500","52")
+	aV(y[0],m[2],"Silverado 2500","53")
+	aV(y[0],m[2],"Silverado 2500HD","77")
+	aV(y[0],m[2],"Silverado 3500","78")
+	aV(y[0],m[3],"Sonoma Pickup","15")
+	aV(y[0],m[2],"Suburban","56")
+	aV(y[0],m[5],"Sunfire Coupe","9")
+	aV(y[0],m[5],"Sunfire Sedan","72")
+	aV(y[0],m[2],"Tahoe","7")
+	aV(y[0],m[2],"Tracker","5")
+	aV(y[0],m[2],"Venture","37")
+	aV(y[0],m[3],"Yukon","18")
+	aV(y[0],m[3],"Yukon Denali","60")
+	aV(y[0],m[3],"Yukon XL","8")
+	aV(y[0],m[3],"Yukon XL Denali","76")
+	aV(y[1],m[1],"Escalade","58")
+}
+function defaultYear(aYearStr)
+{
+	var yearStr=aYearStr
+	buildMakeMenu(yearStr, "CADILLAC")
+	buildModelMenu(yearStr,"CADILLAC", "Seville")
+}
+function submitSDFormWithChecks(aForm,submitTo)
+{
+	if(aForm.SelectModel.selectedIndex==0)
+	{
+		errorPopup("Please select<BR>a model<BR>to continue.","select")
+		return
+	}
+	if(selectedValue(aForm.SelectTrim) == "")
+	{
+		errorPopup("Please select<BR>a style<BR>to continue.","select")
+		return
+	}
+	if(aForm.POSTLCD.value.length<5)
+	{
+		errorPopup("Please enter<BR>a 5 digit zip code<BR>to continue.","enter")
+		return
+	}
+	if (isNaN(aForm.POSTLCD.value))
+	{
+errorPopup("Please enter<BR>a valid zip code<BR>to continue.","enter")
+return
+	}
+	submitSDForm(aForm,submitTo)
+}
+function submitSDForm(aForm,submitTo)
+{
+	if(aForm.SelectModel.selectedIndex==0)
+	{
+		errorPopup("Please select<BR>a model<BR>to continue.","select")
+		return
+	}
+	var MakeBrandValue=selectedValue(aForm.SelectModel)
+	var MakeBrandArray=MakeBrandValue.split("^")
+
+	aForm.SellngSrcCd.value=MakeBrandArray[0]
+	aForm.NampltCd.value=MakeBrandArray[1]
+	aForm.BrandCd.value=MakeBrandArray[2]
+
+	var PVCValue=selectedValue(aForm.SelectTrim)
+	var PVCArray=PVCValue.split("^")
+
+    aForm.PVCId.value=PVCArray[0]
+	aForm.SSNampltDesc.value=PVCArray[1]
+	aForm.MdsngModlDesgtr.value=PVCArray[2]
+	aForm.VehProdCd.value=PVCArray[3]
+	aForm.VEHMSRP.value=PVCArray[4]
+	aForm.PVCMSRP.value=PVCArray[4]
+	aForm.PVCDesc.value=selectedTextOf(aForm.SelectTrim)
+
+	aForm.action=submitTo
+	aForm.submit()
+}
+
+//preload rollover images
+MM_preloadImages('www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_start_F2.gif','#938625434340');
+MM_preloadImages('www.gmbuypower.com/us/en/gmbp/gmbp/images/shared_main/btn_trim_F2.gif','#938625434331');
+MM_preloadImages('www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_build_F2.gif','#938625434351');
+MM_preloadImages('www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_dlrs_best_price_F2.gif','#938625434361');
+MM_preloadImages('www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_search_inv_F2.gif','#938625434371');
+</script>
+
+<script language="javascript" SRC="http://www.gmbuypower.com/us/en/gmbp/gmbp/javascript/navigation.js"></script>
+<script language="javascript" SRC="http://www.gmbuypower.com/us/en/gmbp/gmbp/javascript/help.js"></script>
+<script language="javascript" SRC="http://www.gmbuypower.com/us/en/gmbp/gmbp/javascript/error.js"></script>
+<script language="javascript" SRC="http://www.gmbuypower.com/us/en/gmbp/gmbp/javascript/EDlrNavigation.js"></script>
+  </HEAD>
+<STYLE type="text/css">
+<!--
+.maintext {color: #FFFFFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.globalnav_bottom {color: #9D785F; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text1 {color: #FFFFFF; font-size: 18px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text2 {color: #FFFFFF; font-size: 10px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+a:link {color: #C1B873; text-decoration: none}
+a:visited {color: #C1B873; text-decoration: none}
+a:hover {color: #FFFFFF; text-decoration: none}
+-->
+</STYLE>
+<!--<SCRIPT LANGUAGE="JavaScript" src="http://www.gmbuypower.com/us/en/gmbp/gmbp/javascript/pulldowns.js"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript">
+function getRandomHeroShot()
+{
+	var i;
+	i = Math.floor(Math.random()*ImgArray.length);
+	return ImgArray[i];
+}
+function init()
+{
+	document.heroshotgif.src = getRandomHeroShot();
+	initDocument();
+}
+function initDocument()
+{
+	initVehicles();
+	defaultYear(2001);
+}
+function initVehicles()
+{
+	v=new Array();
+	m=new Array();
+	y=new Array();
+	// Array of makes
+	m[0] = "BUICK"
+	m[1] = "CADILLAC"
+	m[2] = "CHEVROLET"
+	m[3] = "GMC"
+	m[4] = "OLDSMOBILE"
+	m[5] = "PONTIAC"
+	// Array of years
+	y[1] = 2001
+	y[2] = 2002
+	// Add Makes
+	aM(y[1],m[0],"11","004")
+	aM(y[1],m[1],"12","006")
+	aM(y[1],m[2],"13","001")
+	aM(y[1],m[3],"48","012")
+	aM(y[1],m[4],"15","003")
+	aM(y[1],m[5],"16","002")
+	aM(y[2],m[1],"12","006")
+	// Add 2001 vehicles
+	aV(y[1],m[4],"Alero Coupe","50")
+	aV(y[1],m[4],"Alero Sedan","73")
+	aV(y[1],m[2],"Astro Cargo","62")
+	aV(y[1],m[2],"Astro Van","38")
+	aV(y[1],m[4],"Aurora","42")
+	aV(y[1],m[5],"Aztek","75")
+	aV(y[1],m[2],"Blazer","6")
+	aV(y[1],m[5],"Bonneville","13")
+	aV(y[1],m[4],"Bravada","43")
+	aV(y[1],m[2],"Camaro","35")
+	aV(y[1],m[1],"Catera","30")
+	aV(y[1],m[2],"Cavalier Coupe","2")
+	aV(y[1],m[2],"Cavalier Sedan","19")
+	aV(y[1],m[0],"Century","23")
+	aV(y[1],m[2],"Corvette","36")
+	aV(y[1],m[1],"DeVille","27")
+	aV(y[1],m[1],"Eldorado","29")
+	aV(y[1],m[2],"Express","51")
+	aV(y[1],m[2],"Express Cargo","67")
+	aV(y[1],m[5],"Firebird","11")
+	aV(y[1],m[5],"Grand Am Coupe","10")
+	aV(y[1],m[5],"Grand Am Sedan","40")
+	aV(y[1],m[5],"Grand Prix Coupe","12")
+	aV(y[1],m[5],"Grand Prix Sedan","74")
+	aV(y[1],m[2],"Impala","61")
+	aV(y[1],m[4],"Intrigue","20")
+	aV(y[1],m[3],"Jimmy","17")
+	aV(y[1],m[0],"LeSabre","25")
+	aV(y[1],m[2],"Malibu","32")
+	aV(y[1],m[5],"Montana","48")
+	aV(y[1],m[2],"Monte Carlo","34")
+	aV(y[1],m[0],"Park Avenue","26")
+	aV(y[1],m[2],"Prizm","31")
+	aV(y[1],m[0],"Regal","24")
+	aV(y[1],m[2],"S-10 Pickup","3")
+	aV(y[1],m[3],"Safari Cargo","64")
+	aV(y[1],m[3],"Safari Van","39")
+	aV(y[1],m[3],"Savana","59")
+	aV(y[1],m[3],"Savana Cargo","69")
+	aV(y[1],m[1],"Seville","47")
+	aV(y[1],m[3],"Sierra 1500","16")
+	aV(y[1],m[3],"Sierra 1500HD","71")
+	aV(y[1],m[3],"Sierra 2500","68")
+	aV(y[1],m[3],"Sierra 2500HD","79")
+	aV(y[1],m[3],"Sierra 3500","80")
+	aV(y[1],m[4],"Silhouette","22")
+	aV(y[1],m[2],"Silverado 1500","52")
+	aV(y[1],m[2],"Silverado 1500HD","57")
+	aV(y[1],m[2],"Silverado 2500","53")
+	aV(y[1],m[2],"Silverado 2500HD","77")
+    aV(y[1],m[2],"Silverado 3500","78")
+	aV(y[1],m[3],"Sonoma Pickup","15")
+	aV(y[1],m[2],"Suburban","56")
+	aV(y[1],m[5],"Sunfire Coupe","9")
+	aV(y[1],m[5],"Sunfire Sedan","72")
+	aV(y[1],m[2],"Tahoe","7")
+	aV(y[1],m[2],"Tracker","5")
+	aV(y[1],m[2],"Venture","37")
+	aV(y[1],m[3],"Yukon","18")
+	aV(y[1],m[3],"Yukon Denali","60")
+	aV(y[1],m[3],"Yukon XL","8")
+	aV(y[1],m[3],"Yukon XL Denali","76")
+//2002 Vehicles
+	aV(y[2],m[1],"Escalade","58")
+}
+function defaultYear(aYearStr)
+{
+	var yearStr=aYearStr
+	buildMakeMenu(yearStr, "")
+	buildModelMenu(yearStr,"", "")
+}
+function submitSDFormWithChecks(aForm,submitTo)
+{
+	if(aForm.SelectModel.selectedIndex==0)
+	{
+		errorPopup("Please select<br>a model<br>to continue.","select")
+		return
+	}
+	if(selectedValue(aForm.SelectTrim) == "")
+	{
+		errorPopup("Please select<br>a style<br>to continue.","select")
+		return
+	}
+	if(aForm.POSTLCD.value.length<5)
+	{
+		errorPopup("Please enter<br>a 5 digit zip code<br>to continue.","enter")
+		return
+	}
+	if (isNaN(aForm.POSTLCD.value))
+	{
+errorPopup("Please enter<br>a valid zip code<br>to continue.","enter")
+return
+	}
+	submitSDForm(aForm,submitTo)
+}
+function submitSDForm(aForm,submitTo)
+{
+	if(aForm.SelectModel.selectedIndex==0)
+	{
+		errorPopup("Please select<br>a model<br>to continue.","select")
+		return
+	}
+	var MakeBrandValue=selectedValue(aForm.SelectModel)
+	var MakeBrandArray=MakeBrandValue.split("^")
+
+	aForm.SellngSrcCd.value=MakeBrandArray[0]
+	aForm.NampltCd.value=MakeBrandArray[1]
+	aForm.BrandCd.value=MakeBrandArray[2]
+
+	var PVCValue=selectedValue(aForm.SelectTrim)
+	var PVCArray=PVCValue.split("^")
+
+    aForm.PVCId.value=PVCArray[0]
+	aForm.SSNampltDesc.value=PVCArray[1]
+	aForm.MdsngModlDesgtr.value=PVCArray[2]
+	aForm.VehProdCd.value=PVCArray[3]
+	aForm.VEHMSRP.value=PVCArray[4]
+	aForm.PVCMSRP.value=PVCArray[4]
+	aForm.PVCDesc.value=selectedTextOf(aForm.SelectTrim)
+
+	aForm.action=submitTo
+	aForm.submit()
+}
+</SCRIPT>-->
+  <BODY BGCOLOR="000000" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" TEXT="FFFFFF" LINK="C1B873" ALINK="C1B873" VLINK="C1B873" onload="init();" onresize="document.heroshotgif.src = getRandomHeroShot();NSMacReload()">
+	<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	  <TR>
+	    <TD WIDTH="50%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="10" HEIGHT="1"></TD>
+		<TD WIDTH="760" VALIGN="TOP">
+		  <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" WIDTH="760" HEIGHT="120">
+		  <PARAM NAME=movie VALUE="/swf/navigator.swf">
+		  <PARAM NAME=menu VALUE=FALSE>
+		  <PARAM NAME=QUALITY VALUE=HIGH>
+		  <EMBED SRC="/swf/navigator.swf" QUALITY=HIGH MENU=FALSE pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" TYPE="application/x-shockwave-flash" WIDTH="760" HEIGHT="120"></embed><BR>
+		  </OBJECT></TD>
+		<TD WIDTH="50%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="10" HEIGHT="1"></TD>
+	  </TR>
+    </TABLE>
+	<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	  <TR>
+        <TD WIDTH="50%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="80" HEIGHT="330"></TD>
+		<TD WIDTH="445" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="445" HEIGHT="1"><BR>
+		  <TABLE BGCOLOR="FFFFFF" WIDTH="529" HEIGHT="147" CELLPADDING="0" CELLSPACING="0" BORDER="0">
+		    <TR HEIGHT="158">
+			  <TD WIDTH="214" HEIGHT="110" VALIGN="TOP"><IMG HEIGHT="110" WIDTH="214" SRC="http://a1236.g.akamai.net/7/1236/819/1d8352905f2c38/www.gmbuypower.com/us/en/gmbp/gmbp/images/shared_main/shim.gif" name="heroshotgif" BORDER="0"></TD>
+		    </TR>
+		  </TABLE>
+		  <TABLE BGCOLOR="FFFFFF" CELLPADDING="0" CELLSPACING="0" WIDTH="529" BORDER="0">
+			<TR HEIGHT="57">
+			  <TD COLSPAN="2" ALIGN="left" VALIGN="top" BGCOLOR="#e6e6e6" HEIGHT="57">
+			    <!-- express path form -->
+				<form name="SDForm" method="POST" onsubmit="return false">
+				<!-- 2 This is the form input for the express path including make model and trim info-->
+				<input type="hidden" name="CallingTempltNm" value="entry/G1a">
+				<input type="hidden" name="targetApplogic" value="">
+				<input type="hidden" name="TempltNm" value="">
+				<input type="hidden" name="SellngSrcCd" value="">
+				<input type="hidden" name="NampltCd" value="">
+				<input type="hidden" name="BrandCd" value="">
+				<input type="hidden" name="PVCId" value="">
+				<input type="hidden" name="SSNampltDesc" value="">
+				<input type="hidden" name="MdsngModlDesgtr" value="">
+				<input type="hidden" name="VehProdCd" value="">
+				<input type="hidden" name="VEHMSRP" value="">
+				<input type="hidden" name="PVCMSRP" value="">
+				<input type="hidden" name="PVCDesc" value="">
+				<input type="hidden" name="BrandDesc" value="">
+				<input type="hidden" name="LwrColrOptnCd" value="">
+				<input type="hidden" name="LwrColrOptnDesc" value="">
+				<input type="hidden" name="ExtrrColrOptnCd" value="">
+				<input type="hidden" name="ExtrColrOptnDesc" value="">
+				<input type="hidden" name="TrimColrOptnCd" value="">
+				<input type="hidden" name="TrimColrOptnDesc" value="">
+				<input type="hidden" name="SRCHTYPE" value="DEALERPOSTALCODE">
+				<select name="ModlYrNbr" size="1" onchange="selectYear( this )">
+				  <option value="2002" > 2002
+				  <option value="2001" selected> 2001
+				</select><IMG HEIGHT="5" WIDTH="2" SRC="http://a1236.g.akamai.net/7/1236/819/1d8352905f2c38/www.gmbuypower.com/us/en/gmbp/gmbp/images/shared_main/shim.gif">
+				<select name="SelectMake" size="1" onchange="selectMake( this );">
+				  <option selected value="">Select Make...
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				</select><IMG HEIGHT="5" WIDTH="2" SRC="http://a1236.g.akamai.net/7/1236/819/1d8352905f2c38/www.gmbuypower.com/us/en/gmbp/gmbp/images/shared_main/shim.gif">
+				<select name="SelectModel" size="1" onchange="javascript: document.SDForm.TempltNm.value='entry/G1a';submitSDForm( document.SDForm, 'http://www.gmbuypower.com/cgi-bin/gx.cgi/AppLogic+COM.gm.BuyPower.applications.selector.YearMakeModelTrim.YearMakeModelTrim' )">
+				  <option selected value="">Select a Model...
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				  <option value="">
+				</select>
+				<BR CLEAR="ALL">
+				<IMG SRC="http://a1236.g.akamai.net/7/1236/819/1d8352905f2c38/www.gmbuypower.com/us/en/gmbp/gmbp/images/shared_main/shim.gif" WIDTH="1" HEIGHT="5" ALIGN="TOP"><BR>
+				<select name="SelectTrim" size="1">
+				  <option value="" selected>
+				  Which [Model Name] Style?
+				</select>
+				<A HREF="#" onClick='trimOverview(selectedValue(document.SDForm.ModlYrNbr),selectedValue(document.SDForm.SelectModel),selectedValue(document.SDForm.SelectTrim)); return false;' onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.SDForm.trim','document.trim','http://www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_whatis_trim_level_f2.gif','#938625434331')"><IMG HEIGHT="17" WIDTH="105" SRC="http://www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_whatis_trim_level.gif" BORDER="0" name="trim" ALIGN="absmiddle"></A></TD>
+				
+			</TR>
+			<TR HEIGHT="32">
+			  <TD WIDTH="189" HEIGHT="32" VALIGN="MIDDLE" nowrap BGCOLOR="#e6e6e6">
+			    <FONT FACE="arial,helvetica" size="1" color="#999999">Your zip code allows us to provide<BR>
+				you with a list of vehicles in your area.</font></TD>
+			  <TD HEIGHT="32" VALIGN="middle" ALIGN="left" nowrap WIDTH="340" BGCOLOR="#e6e6e6">
+			    <FONT FACE="arial,helvetica" size="2">Zip Code:&nbsp;</font>
+				<input name="POSTLCD" type="text" size="10" maxlength="5"></TD>
+			</TR>
+			<TR HEIGHT="42">
+			  <TD HEIGHT="42" COLSPAN="2" ALIGN="CENTER" VALIGN="TOP" nowrap BGCOLOR="#e6e6e6">
+			  </form>
+			  <IMG SRC="http://a1236.g.akamai.net/7/1236/819/a7aebc8432dafc/www.gmbuypower.com/us/en/gmbp/gmbp/images/d1a/select_from_options_text.gif" WIDTH="138" HEIGHT="16" ALIGN="LEFT"><BR>
+			  <!--END  2-->
+			  <A HREF="javascript:document.SDForm.TempltNm.value='';submitSDFormWithChecks( document.SDForm, 'http://www.gmbuypower.com/cgi-bin/gx.cgi/AppLogic+COM.gm.BuyPower.applications.color.ColorSelectorAppLogic.ColorSelectorAppLogic' )" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.build','document.build','http://www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_build_F2.gif','#938625434351')"><IMG SRC="http://a1236.g.akamai.net/7/1236/819/2e754c8e46f70b/www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_build.gif" WIDTH="101" HEIGHT="19" BORDER="0" name="build" ALIGN="top" VSPACE="2"></A>
+			  <A HREF="javascript:document.SDForm.TempltNm.value='locateDealer/GBP1';submitSDFormWithChecks(document.SDForm,'http://www.gmbuypower.com/cgi-bin/gx.cgi/AppLogic+COM.gm.BuyPower.applications.locateDealer.BPDealerLocatorApp.BPDealerLocatorApp')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.dlrbestprice','document.dlrbestprice','http://www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_dlrs_best_price_F2.gif','#938625434361')"><IMG SRC="http://a1236.g.akamai.net/7/1236/819/43bd4b53a94c2f/www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_dlrs_best_price.gif" WIDTH="116" HEIGHT="19" ALIGN="top" BORDER="0" name="dlrbestprice" VSPACE="2"></A>
+			  <A HREF="javascript:document.SDForm.TempltNm.value='locateDealer/G4b';submitSDFormWithChecks(document.SDForm,'http://www.gmbuypower.com/cgi-bin/gx.cgi/AppLogic+COM.gm.BuyPower.applications.locateDealer.BPDealerLocatorApp.BPDealerLocatorApp')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.search','document.search','http://www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_search_inv_F2.gif','#938625434371')"><IMG SRC="http://a1236.g.akamai.net/7/1236/819/7960fb02a03cc3/www.gmbuypower.com/us/en/gmbp/gmbp/images/g1a/btn_search_inv.gif" WIDTH="139" HEIGHT="19" ALIGN="top" BORDER="0" name="search" VSPACE="2"></A></TD>
+			</TR>
+		  </TABLE>
+		</TD>
+		<TD WIDTH="175" VALIGN="TOP">
+		  <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" WIDTH="175" HEIGHT="330">
+		  <PARAM NAME=movie VALUE="/swf/more_info.swf">
+		  <PARAM NAME=menu VALUE=FALSE>
+		  <PARAM NAME=QUALITY VALUE=HIGH>
+		  <EMBED SRC="/swf/more_info.swf" QUALITY=HIGH MENU=FALSE pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" TYPE="application/x-shockwave-flash" WIDTH="175" HEIGHT="330"></embed><BR>
+		  </OBJECT></TD>
+		<TD WIDTH="50%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="80" HEIGHT="1"></TD>
+	  </TR>
+    </TABLE>
+	<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	  <TR>
+        <TD WIDTH="50%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="10" HEIGHT="1"></TD>
+		<TD WIDTH="760" ALIGN="CENTER" VALIGN="TOP" CLASS="globalnav_bottom"><IMG SRC="/images/shim.gif" WIDTH="760" HEIGHT="1"><BR>
+		  <FONT CLASS="globalnav_bottom">
+		  <A HREF="#" target="_top"><B>Directions</B></A> |
+		  <A HREF="#" target="_top"><B>Privacy Policy</B></A> |
+		  <A HREF="#" target="_new"><B>FAQ's</B></A> |
+		  <A HREF="#" target="_top"><B>Low Price Guarantee</B></A> |
+		  <A HREF="#" target="_top"><B>Contact Us</B></A> |
+		  <A HREF="#" target="_top"><B>GM Website</B></A><BR>
+		  TM &amp; &copy; 2001 Guy Schmidt, Inc. All rights reserved.</FONT><BR><BR></TD>
+		<TD WIDTH="50%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="10" HEIGHT="1"></TD>
+	  </TR>
+    </TABLE>
+  </BODY>
+</HTML>
+<script language="javascript">
+<!--
+if (navigator.userAgent.indexOf("MSIE 5") > -1) document.writeln('<head><meta http-equiv=pragma content=no-cache></head>');
+//-->
+</script>

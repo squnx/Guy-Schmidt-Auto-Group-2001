@@ -1,0 +1,61 @@
+<HTML>
+  <HEAD>
+    <TITLE>Guy Schmidt Automotive Group!</TITLE>
+	<META NAME="KEYWORDS" CONTENT="Guy Schmidt, Guy Schmidt Automotive Group, About Us, President">
+	<META NAME="DESCRIPTION" CONTENT="Guy Schmidt Automotive Group">
+	<META http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  </HEAD>
+<STYLE type="text/css">
+<!--
+.maintext {color: #FFFFFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.footer {color: #9D785F; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text1 {color: #FFFFFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text2 {color: #FFFFFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+a:link {color: #C1B873; text-decoration: none}
+a:visited {color: #C1B873; text-decoration: none}
+a:hover {color: #FFFFFF; text-decoration: none}
+-->
+</STYLE>
+<!--#INCLUDE VIRTUAL="/include/script_popup.inc"-->
+  <BODY BGCOLOR="000000" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" TEXT="FFFFFF" LINK="C1B873" ALINK="C1B873" VLINK="C1B873">
+	<!--#INCLUDE VIRTUAL="/include/navigator.inc"-->
+	<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	  <TR>
+        <TD WIDTH="100" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+		<TD WIDTH="580" ALIGN="CENTER" VALIGN="TOP" CLASS="text2"><IMG SRC="/images/shim.gif" WIDTH="580" HEIGHT="1"><BR>
+		  <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" WIDTH="580" HEIGHT="70">
+		  <PARAM NAME=movie VALUE="swf/header.swf">
+		  <PARAM NAME=menu VALUE=FALSE>
+		  <PARAM NAME=QUALITY VALUE=HIGH>
+		  <PARAM NAME=BGCOLOR VALUE=000000>
+		  <EMBED SRC="swf/header.swf" MENU=FALSE QUALITY=HIGH BGCOLOR=000000 pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" TYPE="application/x-shockwave-flash" WIDTH="580" HEIGHT="70"></embed><BR>
+		  </OBJECT></TD>
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+	  </TR>
+	  <TR>
+        <TD WIDTH="100" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+		<TD WIDTH="580" VALIGN="TOP" CLASS="text2"><IMG SRC="/images/shim.gif" WIDTH="580" HEIGHT="1"><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>Tell the President!</B><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;At Guy Schmidt Auto Group, it's all here!  In order to deliver that promise, I want to know what type of experience you've had at Guy Schmidt so I have reserved this area for your feedback directly to me, M. J. Vaughn.
+		  If you had a good experience and would like to praise an employee at Guy Schmidt Automotive Group, I would love to know about it. Or if you want to just tell us how we are doing, this is the place to send me a personal email.<BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  If you have a problem and want to put it in writing tell me on this form, we want to know about what we're doing right and what we could be doing better.
+		  <B><A HREF="/aboutus/mission/index.shtml" NAME="mission" CLASS="fade">Our Mission</A></B> is to Achieve 100% Customer Satisfaction at all times!<BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  Come in and say hello,<BR><BR>
+		  <B>Mr. M. Jean Vaughn</B><BR>
+		  <B><A HREF="mailto:mjvaughn@guyschmidtautogroup.com" NAME="staff1" CLASS="fade">mjvaughn@guyschmidtautogroup.com</A></B><BR><BR></TD>
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+	  </TR>
+	  <TR>
+        <TD WIDTH="100" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+		<TD WIDTH="580" ALIGN="CENTER" VALIGN="TOP"><IMG SRC="/aboutus/images/bar.jpg" WIDTH="580" HEIGHT="10"><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="5"></TD>
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+	  </TR>
+    </TABLE>
+	<!--#INCLUDE VIRTUAL="/include/footer.inc"-->
+  </BODY>
+</HTML>

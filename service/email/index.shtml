@@ -1,0 +1,39 @@
+<HTML>
+  <HEAD>
+    <TITLE>Guy Schmidt Automotive Group!</TITLE>
+	<META NAME="KEYWORDS" CONTENT="Guy Schmidt, Guy Schmidt Automotive Group, Service, Email Service">
+	<META NAME="DESCRIPTION" CONTENT="Guy Schmidt Automotive Group">
+	<META http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  </HEAD>
+<STYLE type="text/css">
+<!--
+.maintext {color: #FFFFFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.footer {color: #9D785F; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text1 {color: #FFFFFF; font-size: 18px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text2 {color: #FFFFFF; font-size: 10px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+a:link {color: #C1B873; text-decoration: none}
+a:visited {color: #C1B873; text-decoration: none}
+a:hover {color: #FFFFFF; text-decoration: none}
+-->
+</STYLE>
+<!--#INCLUDE VIRTUAL="/include/script_popup.inc"-->
+  <BODY BGCOLOR="000000" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" TEXT="FFFFFF" LINK="C1B873" ALINK="C1B873" VLINK="C1B873">
+	<!--#INCLUDE VIRTUAL="/include/navigator.inc"-->
+	<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	  <TR>
+        <TD WIDTH="80" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="80" HEIGHT="1"></TD>
+		<TD WIDTH="445" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="445" HEIGHT="1"><BR>
+		  <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" WIDTH="445" HEIGHT="330">
+		  <PARAM NAME=movie VALUE="swf/main.swf">
+		  <PARAM NAME=menu VALUE=FALSE>
+		  <PARAM NAME=QUALITY VALUE=HIGH>
+		  <PARAM NAME=BGCOLOR VALUE=000000>
+		  <EMBED SRC="swf/main.swf" MENU=FALSE QUALITY=HIGH BGCOLOR=000000 pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" TYPE="application/x-shockwave-flash" WIDTH="445" HEIGHT="330"></embed><BR>
+		  </OBJECT></TD>
+		<!--#INCLUDE VIRTUAL="/include/more_info.inc"-->
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="80" HEIGHT="1"></TD>
+	  </TR>
+    </TABLE>
+	<!--#INCLUDE VIRTUAL="/include/footer.inc"-->
+  </BODY>
+</HTML>

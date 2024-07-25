@@ -1,0 +1,111 @@
+<HTML>
+  <HEAD>
+    <TITLE>Guy Schmidt Automotive Group!</TITLE>
+	<META NAME="KEYWORDS" CONTENT="Guy Schmidt, Guy Schmidt Automotive Group, About Us, Staff">
+	<META NAME="DESCRIPTION" CONTENT="Guy Schmidt Automotive Group">
+	<META http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  </HEAD>
+<STYLE type="text/css">
+<!--
+.maintext {color: #FFFFFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.footer {color: #9D785F; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text1 {color: #FFFFFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text2 {color: #FFFFFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+a:link {color: #C1B873; text-decoration: none}
+a:visited {color: #C1B873; text-decoration: none}
+a:hover {color: #FFFFFF; text-decoration: none}
+-->
+</STYLE>
+<!--#INCLUDE VIRTUAL="/include/script_popup.inc"-->
+  <BODY BGCOLOR="000000" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" TEXT="FFFFFF" LINK="C1B873" ALINK="C1B873" VLINK="C1B873">
+	<!--#INCLUDE VIRTUAL="/include/navigator.inc"-->
+	<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	  <TR>
+        <TD WIDTH="100" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+		<TD WIDTH="580" COLSPAN="4" ALIGN="CENTER" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="580" HEIGHT="1"><BR>
+		  <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" WIDTH="580" HEIGHT="70">
+		  <PARAM NAME=movie VALUE="swf/header.swf">
+		  <PARAM NAME=menu VALUE=FALSE>
+		  <PARAM NAME=QUALITY VALUE=HIGH>
+		  <PARAM NAME=BGCOLOR VALUE=000000>
+		  <EMBED SRC="swf/header.swf" MENU=FALSE QUALITY=HIGH BGCOLOR=000000 pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" TYPE="application/x-shockwave-flash" WIDTH="580" HEIGHT="70"></embed><BR>
+		  </OBJECT></TD>
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+	  </TR>
+	  <TR>
+        <TD WIDTH="100" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+		<TD WIDTH="580" COLSPAN="4" VALIGN="TOP" CLASS="text2"><IMG SRC="/images/shim.gif" WIDTH="580" HEIGHT="1"><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="5"><BR>
+		  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Guy Schmidt Automotive Group  was one of the first G.M. dealerships in Glendale and many of our service staff have been working here ever since (Over 114 years of GM experience among our Service Advisors!).
+		  Guy Schmidt Automotive Group is proud to say that our technicians are "Master Certified" GM technicians with up to the date training, tools and equipment.
+		  They also possess ASE Certifications and have the diagnostic abilities to handle all your service needs from routine maintenance to the most challenging repairs.
+		  Guy Schmidt Automotive Group is competitively priced for all our service.<BR><BR></TD>
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+	  </TR>
+	  <TR>
+        <TD WIDTH="100" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+		<TD WIDTH="145" VALIGN="TOP"><IMG SRC="/aboutus/staff/images/bobstephens.jpg" WIDTH="145" HEIGHT="200"></TD>
+		<TD WIDTH="145" VALIGN="TOP"><IMG SRC="/aboutus/staff/images/fredcerpa.jpg" WIDTH="145" HEIGHT="200"></TD>
+		<TD WIDTH="145" VALIGN="TOP"><IMG SRC="/aboutus/staff/images/mikeleffler.jpg" WIDTH="145" HEIGHT="200"></TD>
+		<TD WIDTH="145" VALIGN="TOP"><IMG SRC="/aboutus/staff/images/timheneberry.jpg" WIDTH="145" HEIGHT="200"></TD>
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+	  </TR>
+    </TABLE>
+	<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	  <TR>
+        <TD WIDTH="100" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+		<TD WIDTH="60" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="60" HEIGHT="1"></TD>
+		<TD WIDTH="250" CLASS="text2" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="250" HEIGHT="1"><BR><BR>
+		  <B>MJ Vaughn, President</B><BR>
+		  <A HREF="mailto:mjvaughn@guyschmidtautogroup.com" NAME="staff1" CLASS="fade">mjvaughn@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>Al Shirali, Executive Manager</B><BR>
+		  <A HREF="mailto:al@guyschmidtautogroup.com" NAME="staff2" CLASS="fade">al@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>Bob Stephens, Service Manager</B><BR>
+		  <A HREF="mailto:bob@guyschmidtautogroup.com" NAME="staff3" CLASS="fade">bob@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>Lloyd Madden, Special Finance Manager</B><BR>
+		  <A HREF="mailto:lloyd@guyschmidtautogroup.com" NAME="staff4" CLASS="fade">lloyd@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>Ed Irvine, Internet Sales</B><BR>
+		  <A HREF="mailto:ed@guyschmidtautogroup.com" NAME="staff5" CLASS="fade">ed@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>Pat Riggins, Fleet Department</B><BR>
+		  <A HREF="mailto:pat@guyschmidtautogroup.com" NAME="staff6" CLASS="fade">pat@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>John Burham, Fleet Department</B><BR>
+		  <A HREF="mailto:john@guyschmidtautogroup.com" NAME="staff7" CLASS="fade">john@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR></TD>
+		<TD WIDTH="250" CLASS="text2" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="250" HEIGHT="1"><BR><BR>
+		  <B>Larry Totter, Internet Manager</B><BR>
+		  <A HREF="mailto:larry@guyschmidtautogroup.com" NAME="staff11" CLASS="fade">larry@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>Merlene Maxwell, Business Manager</B><BR>
+		  <A HREF="mailto:merlene@guyschmidtautogroup.com" NAME="staff12" CLASS="fade">merlene@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>Don Larimer, Parts Manager</B><BR>
+		  <A HREF="mailto:don@guyschmidtautogroup.com" NAME="staff13" CLASS="fade">don@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>Frank Weinberg, Internet Sales</B><BR>
+		  <A HREF="mailto:frankw@guyschmidtautogroup.com" NAME="staff14" CLASS="fade">frankw@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>Janet Pepper, Fleet Department</B><BR>
+		  <A HREF="mailto:janet@guyschmidtautogroup.com" NAME="staff15" CLASS="fade">janet@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR>
+		  <B>George Pumphrey, Fleet Department</B><BR>
+		  <A HREF="mailto:george@guyschmidtautogroup.com" NAME="staff16" CLASS="fade">george@guyschmidtautogroup.com</A><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="10"><BR></TD>
+		<TD WIDTH="20" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="20" HEIGHT="1"></TD>
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+	  </TR>
+	  <TR>
+        <TD WIDTH="100" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+		<TD WIDTH="580" COLSPAN="4" ALIGN="CENTER" VALIGN="TOP"><IMG SRC="/aboutus/images/bar.jpg" WIDTH="580" HEIGHT="10"><BR>
+		  <IMG SRC="/images/shim.gif" WIDTH="1" HEIGHT="5"></TD>
+		<TD WIDTH="100%" VALIGN="TOP"><IMG SRC="/images/shim.gif" WIDTH="100" HEIGHT="1"></TD>
+	  </TR>
+    </TABLE>
+	<!--#INCLUDE VIRTUAL="/include/footer.inc"-->
+  </BODY>
+</HTML>
